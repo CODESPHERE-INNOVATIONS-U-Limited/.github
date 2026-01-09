@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://www.codesphereug.com/logo.png" alt="CODESPHERE INNOVATIONS Logo" width="100" height="100" />
+  <img src="https://sgmnmkoastaebwdczgfj.supabase.co/storage/v1/object/public/user-photos/Screenshot%202026-01-09%20212543.png" alt="CODESPHERE INNOVATIONS Logo" width="100" height="100" />
   <h1><b>CODESPHERE INNOVATIONS (U) Limited</b></h1>
   <h3><i>Engineering Digital Transformation.</i></h3>
   <p>We bridge the gap between visionary business goals and high-performance digital reality through academic-grade precision and scalable engineering.</p>
