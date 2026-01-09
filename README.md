@@ -20,7 +20,7 @@
 Founded in 2023 and headquartered in Kampala, **CODESPHERE INNOVATIONS** is a premier engineering firm and strategic innovation center. We don’t just build applications; we engineer future-proof systems for local enterprises and international clients. Our mission is to deliver robust, scalable, and secure digital solutions that drive growth and efficiency.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTIwZTc3NmIzYzY1ZGM4Y2U3ZDEyYzdiNjJkZDUxY2ZmYjY1NzZkOCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/M9gbBd9hDxm1y/giphy.gif" alt="Coding GIF" width="500" />
+  <img src="https://sgmnmkoastaebwdczgfj.supabase.co/storage/v1/object/public/user-photos/Gemini_Generated_Image_owp6ymowp6ymowp6.png" alt="Coding GIF" width="500" />
 </div>
 
 ---
