@@ -7,7 +7,7 @@
 
   <div>
     <a href="https://www.codesphereug.com/"><img src="https://img.shields.io/badge/Website-codesphereug.com-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-    <a href="https://www.linkedin.com/company/codesphere-innovations-u-limited"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/company/codesphereug"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
     <a href="https://twitter.com/codesphereug"><img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
     <a href="mailto:hello@codesphereug.com"><img src="https://img.shields.io/badge/Email-Contact_Us-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </div>
