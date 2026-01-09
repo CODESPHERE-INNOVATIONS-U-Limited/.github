@@ -106,9 +106,9 @@ We are proud to partner with leading organizations to drive their digital transf
 
 <div align="center">
   <!-- Replace with your client logos -->
-  <img src="https://via.placeholder.com/150x60.png?text=Client+Logo" alt="Client 1" hspace="20">
-  <img src="https://via.placeholder.com/150x60.png?text=Client+Logo" alt="Client 2" hspace="20">
-  <img src="https://via.placeholder.com/150x60.png?text=Client+Logo" alt="Client 3" hspace="20">
+  <img src="https://via.placeholder.com/150x60.png?text=Client+Logo" alt="" hspace="20">
+  <img src="https://via.placeholder.com/150x60.png?text=Client+Logo" alt="" hspace="20">
+  <img src="https://via.placeholder.com/150x60.png?text=Client+Logo" alt="" hspace="20">
 </div>
 
 ---
